@@ -2,7 +2,7 @@
   "teamdata": [
     {
       "id": 1,
-      "name": "EQUIPO AA",
+      "name": "EQUIPO AA", 
       "actividades": [
         {
           "name": "Desarrollo Inicial React",
